@@ -13,7 +13,7 @@ package com.mycompany.longesthappystring;
 public class LongestHappyString 
 {
 
-    public static void main(String[] args) 
+    public void main(String[] args) 
     {
         longestDiverseString(1, 1, 7);
     }
